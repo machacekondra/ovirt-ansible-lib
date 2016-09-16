@@ -1,0 +1,4 @@
+build/
+dist/
+ovirt_ansible.egg-info
+*.pyc
